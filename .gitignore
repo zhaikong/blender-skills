@@ -4,7 +4,6 @@ Thumbs.db
 desktop.ini
 
 # Editor
-.vscode/
 *.swp
 *.swo
 *~
@@ -18,7 +17,6 @@ desktop.ini
 __pycache__/
 *.py[cod]
 *.pyo
-.env
 venv/
 
 # Node
@@ -35,3 +33,4 @@ dist/
 # Temp
 tmp/
 temp/
+config.bat
